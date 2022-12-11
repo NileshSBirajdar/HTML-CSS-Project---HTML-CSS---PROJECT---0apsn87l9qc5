@@ -1,1 +1,58 @@
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+
+=======
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+.screen-wrapper{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.otp-container{
+    padding: 20px;
+    width: 460px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.otp-input {
+    width: 64px;
+    height: 93px;
+    font-size: 65px;
+    border: 0.4px solid rgb(198, 196, 196);
+    border-radius: 5px;    
+    text-align: center; 
+}
+.otp-input:focus {
+    outline: none;
+    border: 2.2px solid #80a1ed;
+}
+.otp-input:not(:placeholder-shown) {
+    border: 2px solid #b1d2f0;
+    box-shadow: 0 2px 3px 0 grey;
+}
+.foot-note{
+    background-color: #eeeeee;
+    color: #999999;
+    width: 350px;
+    font-size: small;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 8px;
+
+}
+  
+>>>>>>> cd0d5c0 (First commit)
+>>>>>>> ac97787 (First commit)
